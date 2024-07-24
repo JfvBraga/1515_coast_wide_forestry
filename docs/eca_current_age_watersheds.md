@@ -1,4 +1,50 @@
-### Current Age-based ECA
+---
+title: "Coastwide Forestry Reconnstructionsd"
+author: ''
+date: "July 2024"
+output:
+  html_document:
+    collapsed: no
+    fig_caption: yes
+    highlight: espresso
+    number_sections: yes
+    smooth_scroll: yes
+    theme: sandstone
+    toc: yes
+    toc_float: yes
+  pdf_document:
+    toc: yes
+---
+
+```{=html}
+<style type="text/css">
+
+body{ /* Normal  */
+      font-size: 13px;
+  }
+td {  /* Table  */
+  font-size: 13px;
+}
+h1.title {
+  font-size: 24px;
+  color: Black;
+}
+h1 { /* Header 1 */
+  font-size: 19px;
+  color: Black;
+}
+h2 { /* Header 2 */
+    font-size: 15px;
+  color: Black;
+}
+h3 { /* Header 3 */
+    font-size: 15px;
+  color: Black;
+}
+</style>
+```
+
+# Current Age-based ECA
 
 Equivalent clearcut area (ECA) is defined as the extent of forest disturbance while simultaneously accounting for regrowth (i.e., recovery). This disturbance can affect hydrological processes resulting in potential changes to channel morphology, aquatic habitat, alluvial fans, floodplains, infrastructure, and community water supplies. ECA is quantified and mapped as the percentage of an area that is disturbed at a particular point in time (i.e., the selected input slider value above). 
 
