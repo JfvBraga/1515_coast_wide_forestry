@@ -43,7 +43,7 @@ h3 { /* Header 3 */
 }
 </style>
 ```
-# Metodhs
+# Methods
 
 ## Current Age-based ECA
 
